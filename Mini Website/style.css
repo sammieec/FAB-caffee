@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Truculenta:opsz,wght@12..72,100..900&display=swap");
+
+body {
+    font-family: "Truculenta", sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+#navbar {
+    background-color: rgb(218, 211, 211);
+    display: flex;
+    justify-content: space-evenly;
+
+
+} 
+.navbutton {
+    
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 10px;
+    }
+
+#menu {
+
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.pic1 {
+    border: solid 2px red;
+}
+
+.piccontainer {
+    border: solid 2px blueviolet;
+    display: flex;
+    justify-content: center;
+}
+
+.welcome {
+    border: solid 2px red;
+    display: flex;
+    justify-content: center;
+}
+
+.intro {
+    display: flex;
+    justify-content: center;
+
+}
